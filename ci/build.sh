@@ -1,7 +1,7 @@
 #!/bin/bash
 
 set -e -x
-
+export TERM=/dev/null
 cd source-code
   ./gradlew assemble
 cd ..

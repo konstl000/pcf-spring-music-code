@@ -201,5 +201,12 @@
         "title": "Couldn't Stand The Weather",
         "releaseYear": "1984",
         "genre": "Blues"
+    },
+    {
+        "_class": "org.cloudfoundry.samples.music.domain.Album",
+        "artist": "Five Finger Death Punch",
+        "title": "And Justice For None",
+        "releaseYear": "2018",
+        "genre": "Metal"
     }
 ]

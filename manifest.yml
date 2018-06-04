@@ -6,4 +6,4 @@ applications:
   random-route: true
   path: build/libs/spring-music.war
   services:
-  - spring-mysql
+  - redmusic
